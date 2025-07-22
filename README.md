@@ -9,4 +9,3 @@ Currently working as the CFO at Upper, so I won't be spending a lot of time here
 - Tailwind CSS
 - Prisma
 
-]
