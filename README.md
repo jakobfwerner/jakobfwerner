@@ -1,6 +1,6 @@
 Hey, I’m Jakob.✌🏼
 
-Currently working as the CTO at fr3n, where I'm leading the development team. 
+Currently working as the CFO at Upper, so I won't be spending a lot of time here. 
 
 ### My preferred tech stack:
 - TypeScript
